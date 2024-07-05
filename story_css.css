@@ -1,0 +1,27 @@
+ *{
+    border: 0px;
+    padding: 0px;
+ }
+nav > ul > li{
+    display: inline;   
+}
+ 
+ h2,h1{
+    padding: 10px;
+ }
+section{
+    font-size: larger;
+     padding: 10px;
+   
+}
+nav li > a{
+    color: crimson;
+    text-decoration: none;
+}
+footer{
+    text-align: right;
+}
+label{
+    display: block;
+    
+}
